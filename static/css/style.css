@@ -1,0 +1,23 @@
+body {
+    margin: 20px;
+}
+.complete-color {
+    color: green;
+}
+.incomplete-color {
+    color: crimson;
+}
+.h4-naming {
+    margin-bottom: 15px;
+    display: inline-block;
+}
+.right-side-button {
+    float: right;
+}
+.secondary-p {
+    color: darkgrey;
+}
+.inline-p {
+    margin: 0 auto;
+    display: inline-block;
+}
